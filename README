@@ -1,1 +1,7 @@
-Tomahawk just starts and stops stuff from the window
+Tomahawk
+Tool to support starting and stopping of services for development. Tools for monitoring and managing project states in terminal.
+
+- user notifications or growl aware
+- console tool for managing command line state
+- starts stops services eg mysql, fluentd
+- 'tooling' recipes
